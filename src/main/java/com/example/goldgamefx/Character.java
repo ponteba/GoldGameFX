@@ -54,5 +54,4 @@ public class Character {
         this.endurance = endurance;
     }
     //endregion
-
 }
