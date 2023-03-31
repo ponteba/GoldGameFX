@@ -12,3 +12,4 @@ public class GameController {
         welcomeText.setText("Welcome to JavaFX Application!");
     }
 }
+
